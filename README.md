@@ -1,4 +1,4 @@
-🏠 Gen AI Real Estate Assistant
+🏠 ECommerce Tool with LLM
 This project is an **AI-powered analytics and insights tool** that leverages **Large Language Models (LLMs) via Groq** to analyze, summarize, and generate insights from women's footwear data scraped from **Flipkart**. It helps e-commerce teams, sellers, and analysts understand product trends, pricing, sentiment, and competitive landscape.
 
 ---
